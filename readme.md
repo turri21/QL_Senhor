@@ -1,3 +1,9 @@
+-=(QL_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
+
 # Sinclair QL for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki) 
 
 This is a much advanced port of the Sinclair QL implementation for the [MiST](https://github.com/mist-devel/mist-board/tree/master/cores/ql)
